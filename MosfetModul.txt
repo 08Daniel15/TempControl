@@ -1,0 +1,24 @@
+Product Description
+Das PWM Mosfet Modul ist optimiert für die Ansteuerung von Geräten, die auf Pulsweitenmodulation basieren, wie z.B. PWM LED Stromversorgungen und auch Gleichstrommotoren. Bei 2 parallel geschalteten D41484 N Mosfet beträgt der Dauerstrom bis zu 15A. Der maximale Spitzenstrom beträgt bis zu 30A. Das Power PWM Mosfet Modul unterstützt Signale von 3,3V bis 20V mit einer Signalfrequenz von bis zu 20 KHz. Der Steuersignalbereich eignet sich somit hervorragend für die Verwendung mit IoT Geräten wie dem ESP8266 als auch dem Arduino.
+
+Am Ausgang lassen sich 15A mit bis zu 36V Pulsweitenmoduliert ansteuern. Das Modul ermöglicht einen Gate – to – Source Bereich bis zu ± 20 Volt.
+
+Produktdetails:
+Anschlüsse:
+	- GND
+	- PWM-Signaleingang
+	- Vin+
+	- Vout+
+	- Vin-
+	- Vout-
+
+Spezifikation:
+	- Betriebsspannung: 5 bis 36V
+	- Dauerstrom: 15A (bei Raumtemperatur)
+	- Spitzenstrom: 30A
+	- PWM Eingangssignalspannung: 3,3 bis 20V
+	- Signalfrequenz: 0 bis 20 kHz
+	- Zwei N-MOSFETs
+	- Betriebstemperatur: -40C° bis 85C°
+	- LED für Signalausgabe
+	- Abmaße: 34mm x 17mm x 12mm
